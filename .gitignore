@@ -1,0 +1,32 @@
+# Maven build
+target/
+
+# Git interno (se zipar ou copiar)
+.git/
+
+# Logs
+logs/
+*.log
+
+# Configs sensíveis
+src/main/resources/application.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip e backups
+*.zip
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# ESTUDOS:
+zip-project.sh
+Personal-Portfolio-JVM_2026-02-22_16-26.zip
+MONTAR_PROJETO.md
